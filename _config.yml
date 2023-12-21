@@ -18,28 +18,28 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: username
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: username
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: harsh98trivedi
+    Username: username
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
      # THREADS.NET
   - Name: Threads
     URL: https://threads.net/
-    Username: harsh98trivedi
+    Username: username
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
@@ -47,42 +47,42 @@ links:
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
+    Username: 'username'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
+    Username: username
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
+    Username: username
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB
   - Name: GitHub
     URL: http://github.com
-    Username: harsh98trivedi
+    Username: username
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # WordPress
   - Name: WordPress.org
     URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
+    Username: username
     Icon-Class: fa-brands fa-wordpress-simple
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
+    URL: 'mailto:helloworkdev@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
@@ -90,7 +90,7 @@ links:
   #   # Drupal
   # - Name: Drupal
   #   URL: 'https://www.drupal.org/u'
-  #   Username: harshtrivedi
+  #   Username: username
   #   Icon-Class: fa-brands fa-drupal
   #   Color: '#0077C0'
   #   Text_Color: '#ffffff'
@@ -98,7 +98,7 @@ links:
     # TWITCH
   - Name: Twitch
     URL: 'https://twitch.tv'
-    Username: harsh98trivedi
+    Username: username
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
@@ -106,7 +106,7 @@ links:
     # VIMEO
   - Name: Vimeo
     URL: 'https://vimeo.com'
-    Username: harshtrivedi
+    Username: username
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
@@ -114,14 +114,14 @@ links:
     # MESSENGER
   - Name: Messenger
     URL: https://m.me
-    Username: theharshtrivedi
+    Username: username
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
     # Cal.com
   - Name: Cal.com
     URL: https://cal.com
-    Username: harshtrivedi
+    Username: username
     Color: '#888888'
     Icon-Class: fa fa-calendar-check
     Text_Color: '#ffffff'
@@ -129,28 +129,28 @@ links:
     # REDDIT
   - Name: Reddit
     URL: http://reddit.com/u
-    Username: harshtrivedi
+    Username: username
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
 
   #   # WHATSAPP
   # - Name: WhatsApp
   #   URL: https://wa.me
-  #   Username: '+1123456789'
+  #   Username: '+username'
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
   - Name: Telegram
     URL: http://telegram.me
-    Username: theharshtrivedi
+    Username: username
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - Name: Snapchat
     URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
+    Username: 'username'
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
@@ -158,18 +158,18 @@ links:
     # STEAM
   - Name: Steam
     URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
+    Username: 'username'
     Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
 
   #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
+  - Name: Discord
+    URL: 'https://discord.gg'
+    Username: username
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
 
     # PINTEREST
   - Name: Pinterest
@@ -185,17 +185,17 @@ links:
     Color: '#1769ff'
     Icon-Class: fab fa-behance
 
-  #   # DRIBBBLE
-  # - Name: Dribbble
-  #   URL: https://dribbble.com
-  #   Username: 
-  #   Color: '#ea4c89'
-  #   Icon-Class: fab fa-dribbble
+   # DRIBBBLE
+  - Name: Dribbble
+    URL: https://dribbble.com
+    Username: username
+    Color: '#ea4c89'
+    Icon-Class: fab fa-dribbble
 
     # DEVIANTART
   - Name: DeviantArt
     URL: https://www.deviantart.com
-    Username: harshtrivedi
+    Username: username
     Icon-Class: fab fa-deviantart
     Color: '#05CC46'
     Text_Color: '#ffffff'
@@ -203,7 +203,7 @@ links:
     # FIGMA
   - Name: Figma
     URL: https://www.figma.com
-    Username: '@harshtrivedi'
+    Username: '@username'
     Icon-Class: fab fa-figma
     Color: '#ff2865'
     Text_Color: '#ffffff'
@@ -211,14 +211,14 @@ links:
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    Username: username
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
-    Username: harsh98trivedi
+    Username: username
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
@@ -228,17 +228,17 @@ links:
     Color: '#00aff0'
     Text_Color: '#ffffff'
 
-  #    # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username: 
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
+     # TIKTOK
+  - Name: TikTok
+    URL: https://www.tiktok.com
+    Username: username
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
 
     # MEDIUM
   - Name: Medium
     URL: 'https://medium.com'
-    Username: '@harsh98trivedi'
+    Username: '@username'
     Icon-Class: fab fa-medium-m
     Color: '#00ab6c'
     Text_Color: '#ffffff'
@@ -246,7 +246,7 @@ links:
     # DEV.TO
   - Name: Dev.to
     URL: 'https://dev.to'
-    Username: harsh98trivedi
+    Username: username
     Icon-Class: fab fa-dev
     Color: '#ffffff'
     Text_Color: '#000000'
@@ -261,7 +261,7 @@ links:
   # BUY ME A COFFEE
   - Name: BuyMeACoffee
     URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
+    Username: username
     Icon-Class: fas fa-mug-hot
     Color: '#FFDD00'
     Text_Color: '#000000'
