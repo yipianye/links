@@ -6,4 +6,6 @@
 <title>{{site.name}} | Links</title>
 <link rel="shortcut icon" href="https://images.weserv.nl/?url={{site.Image_URL}}&h=300&w=300&fit=cover&mask=circle&l=9&output=webp&q=63" onError="this.onerror=null;this.src='{% for link in site.links %}{% if link.Username and link.Name == 'GitHub' %}{{link.URL}}/{{link.Username}}.png{% endif %}{% endfor %}';" type="image/x-icon">
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url}}">
-<script src="https://kit.fontawesome.com/609f7f6148.js" crossorigin="anonymous"></script>
+ <!-- fontawesome -->
+<!-- <script src="https://kit.fontawesome.com/609f7f6148.js" crossorigin="anonymous"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js" crossorigin="anonymous"></script>
